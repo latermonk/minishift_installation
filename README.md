@@ -1,0 +1,1 @@
+# minishift_installation
